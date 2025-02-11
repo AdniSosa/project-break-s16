@@ -1,0 +1,1 @@
+//Creamos el modelo del usuario, para realizar operaciones en  operaciones en la base de datos MongoDB relacionadas con la colección de usuarios. 

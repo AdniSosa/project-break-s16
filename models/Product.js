@@ -1,0 +1,1 @@
+//Creamos el modelo del producto, para realizar operaciones en la base de datos MongoDB relacionadas con la colección de productos. 
